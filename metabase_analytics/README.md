@@ -6,4 +6,4 @@ If you're running a Metabase instance and are wondering how users are using the 
 *  top_dashboards_with_users_breakdown returns the most visited dashboards, and the amount of distinct users each one got.
 *  top_10_dashboards_per_visits also returns most visited dashboards, over total views.
 
-If you have any questions, feel free to reach out to me on LinkedIn (https://www.linkedin.com/in/paul-lipsitz-81b71b89/?locale=en_US )
+If you have any questions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/paul-lipsitz-81b71b89/?locale=en_US )
